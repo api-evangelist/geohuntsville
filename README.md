@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GEOHuntsville is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.geohuntsville.org/
+GEOHuntsville is a nonprofit organization based in Huntsville, Alabama, dedicated to advancing geospatial innovation, workforce development, and practical solutions for the community and nation. Founded in 2012 as part of the Exemplar City initiative, it unites government, industry, and academia to foster collaboration, education, and economic growth through geospatial technologies, supporting initiatives like the Blueprint for Safety and hosting events such as the GEOHuntsville Summit.
+
+**Areas:** Company · Geospatial · Nonprofit · Community · Innovation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.geohuntsville.org/)
+- [Documentation](https://www.geohuntsville.org/about)
+- [Getting started](https://www.geohuntsville.org/conference)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/geohuntsville/](https://apis.io/providers/geohuntsville/).
